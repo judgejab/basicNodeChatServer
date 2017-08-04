@@ -1,0 +1,11 @@
+{
+  "name": "basicnodechatserver",
+  "version": "1.0.0",
+  "description": "Playing around with net module and sockets in node",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Cleary",
+  "license": "ISC"
+}
